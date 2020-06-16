@@ -56,4 +56,4 @@ python FULL_DIRECTORY_OF_THE_MAIN.py
 ```
 
 ## Disclaimer
-You need to install python to use this GUI (https://www.python.org/)
+You need to install python to use this GUI (https://www.python.org/downloads/release/python-377/)
