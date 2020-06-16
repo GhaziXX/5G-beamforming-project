@@ -34,7 +34,11 @@ cd PATH
 ```
 3. Download the required dependancies, run:
 ```
-pip install -r requirements.txt
+python -m pip install --user -r requirements.txt
+```
+or
+```
+pip install --user -r requirements.txt
 ```
 or
 ```
