@@ -11,7 +11,7 @@
   - [Disclaimer](#disclaimer)
 
 ## Description
-5G Beamforming and DOA is made as a simulation for `Direction d’Arrivée (DOA)/Beam Forming`
+5G Beamforming and DOA is made as a simulation for `Direction Of Arrival (DOA)/Beam Forming`
 first year Sup'Com Hyperfrequency and antenna project.
 The project consists of a graphical interface (GUI) made in python that simulates beamforming in a room
 and plot the graph, and the other task is simulate the direction of arrival in a room and plot the graph.
