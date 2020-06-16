@@ -1,0 +1,4 @@
+pyqt5==5.15.0
+matplotlib==3.2.1
+pyroomacoustics==0.4.0
+numpy==1.18.5
