@@ -24,6 +24,9 @@ If you find this CLI helpful, please support the developers by starring this rep
 ## Instructions
 
 ### Installation
+0. You need to have python 3.6 installed in you computer:
+https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
+
 1. Download this repository or clone it using:
 ```
 git clone https://github.com/GhaziXX/5G-beamforming-project
@@ -44,6 +47,9 @@ or
 ```
 pip install --user -r requirements.txt
 ```
+
+If you ever faced a problem about microsoft c++ here is a direct link to download:
+http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe.
 ### How to use
 
 1. change the current working directory to the location of the downloaded/cloned repository
