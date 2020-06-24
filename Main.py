@@ -490,8 +490,6 @@ class Ui_MainWindow(object):
 "\n"
 "Array of frequences: Simulate the beamforming for the specified frequences\n"
 "\n"
-"NB: you can use a big dimensions of the room to simulate as in a free space\n"
-"\n"
 ""))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab), _translate("MainWindow", "Beamforming"))
         self.groupBox_3.setTitle(_translate("MainWindow", "Original Source Location"))
