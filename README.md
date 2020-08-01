@@ -45,7 +45,7 @@ pip install --user -r requirements.txt
 ```
 or
 ```
-pip install --user -r requirements.txt
+pip install -r requirements.txt
 ```
 
 If you ever faced a problem about microsoft c++ here is a direct link to download:
